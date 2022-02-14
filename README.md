@@ -1,4 +1,4 @@
-# flutter_interview_assignment
+# Weight Tracker
 
 Flutter Weight Tracking App.
 
